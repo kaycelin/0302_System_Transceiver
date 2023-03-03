@@ -2,5 +2,5 @@
 ## DSP_SG_NRTestModel
 ## DSP_DFE_DAC_RFSampling
 ## RF_Mixer_Lo
-## RF_PA
+## RF_PA_DPD
 ## DSP_DPD2
